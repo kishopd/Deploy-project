@@ -1,0 +1,68 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital@0;1&family=Nunito+Sans:ital,opsz,wght@0,6..12,600;1,6..12,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital@0;1&display=swap');
+.mons {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lato{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.nunito{
+  font-family: "Nunito Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "YTLC" 500;
+}
+.figtree{
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+  overflow: hidden;
+  background-color: rgba(248, 250, 255, 1);
+}
+.email-color {
+  background-color: rgba(245, 245, 245, 1);
+}
+.password-color{
+  background: rgba(234, 234, 234, 1);
+}
+
+.button-color{
+  background: rgba(96, 91, 255, 1);
+  padding: 188px;
+
+}
+.forget-color{
+  color: rgba(52, 107, 212, 1);
+
+}
+.register-color{
+ color: rgba(52, 107, 212, 1);
+}
+
+/* second page css */
+.upload-color{
+  color: rgba(96, 91, 255, 1);
+}
+.uploadbutton-colo{
+  background-color: rgba(96, 91, 255, 1);
+} 
